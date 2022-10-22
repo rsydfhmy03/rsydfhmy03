@@ -6,12 +6,12 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=rsydfhmy03&icon=5&color=2)](https://visitcount.itsvg.in) -->
 
 <!-- # 💫 About Me: -->
-👨‍🎓 I'm an Informatics Engineering 2021 student at the State Polytechnic Of Jember<br>
-🔭 I’m interested in studying saints and information technology<br>
-🌱 I’m currently learning **Java, Html, CSS, PHP, Bootstrap, Android Native, Flutter**<br>
-⚡ Fun fact **I am Human not a robot or AI**<br>
-🎲 Let's play together<br>
-👋 see you around
+- 👨‍🎓 I'm an Informatics Engineering 2021 student at the State Polytechnic Of Jember<br>
+- 🔭 I’m interested in studying saints and information technology<br>
+- 🌱 I’m currently learning **Java, Html, CSS, PHP, Bootstrap, Android Native, Flutter**<br>
+- ⚡ Fun fact **I am Human not a robot or AI**<br>
+- 🎲 Let's play together<br>
+- 👋 see you around
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
