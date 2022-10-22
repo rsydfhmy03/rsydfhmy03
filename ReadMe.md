@@ -2,6 +2,7 @@
 <!-- <h3 align="center">Iam Undergraduate Student | Informatics Engineering at State Polytechnic Of Jember</h3> -->
 <h3 align="center">Informatics Engineering student</h3>
 <img align="right" src="./gif.gif" style="width:450px"/>
+---
 [![](https://visitcount.itsvg.in/api?id=rsydfhmy03&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!-- # 💫 About Me: -->
