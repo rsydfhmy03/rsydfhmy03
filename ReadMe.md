@@ -38,7 +38,7 @@
 
 <br>
   <div align="center">
-    <a href="#"><img alt="rsydfhmy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rsydfhmy03&show_icons=true&include_all_commits=true&hide=commits&hide_border=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200" width="450"/></a>
+    <a href="#"><img alt="rsydfhmy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rsydfhmy03&show_icons=true&include_all_commits=true&hide=commits&hide_border=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200" width="525"/></a>
     <a href="#"><img alt="rsydfhmy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsydfhmy03&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"width="350"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<i>
