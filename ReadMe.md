@@ -19,7 +19,9 @@
 <a href="https://instagram.com/rsyd.fhmy03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rysdfhmy03" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
+<!-- # 💻 Tech Stack: -->
+<h2>💻 Tech Stack </h2>
+<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
