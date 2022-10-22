@@ -2,8 +2,8 @@
 <!-- <h3 align="center">Iam Undergraduate Student | Informatics Engineering at State Polytechnic Of Jember</h3> -->
 <h3 align="center">Informatics Engineering student</h3>
 <img align="right" src="./gif.gif" style="width:450px"/>
----
-[![](https://visitcount.itsvg.in/api?id=rsydfhmy03&icon=5&color=2)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsydfhmy03&label=Profile%20views&color=orange&style=flat" alt="rsydfhmy03" /> </p>
+<!-- [![](https://visitcount.itsvg.in/api?id=rsydfhmy03&icon=5&color=2)](https://visitcount.itsvg.in) -->
 
 <!-- # 💫 About Me: -->
 👨‍🎓 I'm an Informatics Engineering 2021 student at the State Polytechnic Of Jember<br>
