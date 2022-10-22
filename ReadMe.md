@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fahmy Rosyadi</h1>
 <!-- <h3 align="center">Iam Undergraduate Student | Informatics Engineering at State Polytechnic Of Jember</h3> -->
 <h3 align="center">Informatics Engineering student</h3>
+---
 <img align="right" src="./gif.gif" style="width:450px"/>
 
 [![](https://visitcount.itsvg.in/api?id=rsydfhmy03&icon=5&color=2)](https://visitcount.itsvg.in)
----
-# 💫 About Me:
+
+<!-- # 💫 About Me: -->
 👨‍🎓 I'm an Informatics Engineering 2021 student at the State Polytechnic Of Jember<br>
 🔭 I’m interested in studying saints and information technology<br>
 🌱 I’m currently learning **Java, Html, CSS, PHP, Bootstrap, Android Native, Flutter**<br>
