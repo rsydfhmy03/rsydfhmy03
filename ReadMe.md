@@ -8,7 +8,7 @@
 <!-- # 💫 About Me: -->
 - 👨‍🎓 I'm an Informatics Engineering 2021 student at the State Polytechnic Of Jember<br>
 - 🔭 I’m interested in studying saints and information technology<br>
-- 🌱 I’m currently learning **Java, Html, CSS, PHP, Bootstrap, Android Native, Flutter**<br>
+- 🌱 I’m currently learning **Develope a Website And Mobile**<br>
 - ⚡ Fun fact **I am Human not a robot or AI**<br>
 - 🎲 Let's play together<br>
 - 👋 see you around
@@ -45,9 +45,9 @@
   </div>
   <hr/>
 
-  <div>
+<!--   <div>
     <a href="#"><img alt="rsydfhmy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rsydfhmy03&custom_title=Fahmy%20Rosyadi%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
-  <div> 
+  <div>  -->
 </div>
 
 <br/>
