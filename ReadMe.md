@@ -20,7 +20,7 @@
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fahmy-rosyadi-374169244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmy rosyadi" height="30" width="40" /></a>
-<a href="https://instagram.com/rsyd.fhmy03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rysdfhmy03" height="30" width="40" /></a>
+<a href="https://instagram.com/mitahudev.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rysdfhmy03" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack
