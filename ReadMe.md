@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fahmy Rosyadi</h1>
 <!-- <h3 align="center">Iam Undergraduate Student | Informatics Engineering at State Polytechnic Of Jember</h3> -->
 <h3 align="center">Informatics Engineering student</h3>
-<!-- <img align="right" src="./gif.gif" style="width:450px"/> -->
- <img alt="Android Studio" align="right" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="30%" />
+<img align="right" src="./gif.gif" style="width:450px"/>
+<!--  <img alt="Android Studio" align="right" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="30%" /> -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rsydfhmy03&label=Profile%20views&color=orange&style=flat" alt="rsydfhmy03" /> 
   
