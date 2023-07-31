@@ -12,14 +12,14 @@
 <!-- # 💫 About Me: -->
 - 👨‍🎓 I'm an Informatics Engineering 2021 student at the State Polytechnic Of Jember<br>
 - 🔭 I’m interested in studying saints and information technology<br>
-- 🌱 I’m currently learning **Develope a Website And Mobile**<br>
+- 🌱 I’m currently learning **Develop a Website And Mobile**<br>
 - ⚡ Fun fact **I am Human not a robot or AI**<br>
 - 🎲 Let's play together<br>
 - 👋 see you around
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fahmy-rosyadi-374169244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmy rosyadi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mitahudev03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmy rosyadi" height="30" width="40" /></a>
 <a href="https://instagram.com/mitahudev.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rysdfhmy03" height="30" width="40" /></a>
 </p>
 
