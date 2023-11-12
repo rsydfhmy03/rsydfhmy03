@@ -12,7 +12,7 @@
 <!-- # 💫 About Me: -->
 - 👨‍🎓 I'm an Informatics Engineering 2021 student at the State Polytechnic Of Jember<br>
 - 🔭 I’m interested in studying saints and information technology<br>
-- 🌱 I’m currently learning **Develop a Website And Mobile**<br>
+- 🌱 I’m currently learning **About IoT**<br>
 - ⚡ Fun fact **I am Human not a robot or AI**<br>
 - 🎲 Let's play together<br>
 - 👋 see you around
