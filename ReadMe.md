@@ -28,6 +28,19 @@ I'm a passionate **Informatics Engineering student** at the **State Polytechnic 
 </p>
 
 ---
+## 🎨 Profile Statistics
+
+<div align="center">
+
+### 📊 Detailed GitHub Analytics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsydfhmy03&theme=radical" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsydfhmy03&theme=radical" alt="Repos per Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rsydfhmy03&theme=radical" alt="Most Commit Language" />
+
+</div>
 
 ## 🤖 AI & Machine Learning Expertise
 
@@ -124,17 +137,32 @@ t
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsydfhmy03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsydfhmy03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsydfhmy03&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
-
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=rsydfhmy03&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsydfhmy03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsydfhmy03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
+</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsydfhmy03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff" alt="GitHub Activity Graph"/>
+</div>
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  
 </div>
 
 ---
@@ -144,21 +172,21 @@ t
 <div align="center">
 
 **Programming Languages**
-![Python](https://img.shields.io/badge/Python-Expert-00D9FF?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-00D9FF?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-Advanced-00D9FF?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/Python-Intermediate-00D9FF?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-00D9FF?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-00D9FF?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/Java-Intermediate-00D9FF?style=flat-square&logo=java)
 
 **AI/ML Technologies**
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Expert-00D9FF?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Expert-00D9FF?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-00D9FF?style=flat-square)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Advanced-00D9FF?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Intermediate-00D9FF?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Intermediate-00D9FF?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-00D9FF?style=flat-square)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Intermediate-00D9FF?style=flat-square)
 
 </div>
 
----
 
+---
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -168,7 +196,13 @@ t
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mitahudev.03)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e41212254@student.polije.ac.id)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mitahudev.web.id)
+<a href="https://github.com/rsydfhmy03">
+  <img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
 
+<a href="https://github.com/rsydfhmy03?tab=repositories">
+  <img src="https://img.shields.io/badge/Star_My_Repos-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star My Repos" />
+</a>
 </div>
 
 ---
